@@ -1,0 +1,75 @@
+2016-11-30 10:38:16,028 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17044, 80, 1747L]
+2016-11-30 11:31:49,526 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1127, 80, 1198L]
+2016-11-30 12:25:22,648 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1130, 80, 1198L]
+2016-11-30 13:18:55,169 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [4974, 80, 1198L]
+2016-11-30 14:12:28,661 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [889, 80, 1198L]
+2016-11-30 15:06:01,942 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [2082, 80, 1198L]
+2016-11-30 15:59:34,972 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17127, 80, 1198L]
+2016-11-30 16:53:07,944 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17128, 80, 1198L]
+2016-11-30 17:46:40,385 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17129, 80, 1198L]
+2016-11-30 18:40:14,238 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [51, 80, 1197L]
+2016-11-30 19:33:47,098 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17143, 80, 1613L]
+2016-11-30 20:27:20,053 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17148, 80, 1613L]
+2016-11-30 21:20:53,696 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17152, 80, 1613L]
+2016-11-30 22:14:26,490 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17154, 80, 1613L]
+2016-11-30 23:07:59,360 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_int (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17160, 80, 1613L]

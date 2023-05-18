@@ -1,0 +1,5 @@
+2017-01-18 01:31:53,875 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1148, 72, u'ENVIRONMENT SMOOTH 80T (118gsm) Desert Storm 11 X 8.5 - 25/PKG']

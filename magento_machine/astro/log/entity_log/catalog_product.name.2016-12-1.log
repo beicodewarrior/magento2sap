@@ -1,0 +1,5 @@
+2016-12-01 00:04:56,812 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17163, 70, u'KRAFT-TONE 70T (104gsm) Carbon Copy Kraft 11 X 8.5 - 100/PKG']

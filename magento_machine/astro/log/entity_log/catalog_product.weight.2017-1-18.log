@@ -1,0 +1,5 @@
+2017-01-18 01:30:52,983 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [16706, 79, None]

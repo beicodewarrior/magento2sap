@@ -1,0 +1,5 @@
+2016-12-01 00:43:11,852 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1179, 72, u'COLORPLAN 100C (270gsm) Vellum White 11 X 8.5']

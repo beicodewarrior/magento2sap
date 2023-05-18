@@ -1,0 +1,15 @@
+2016-12-01 00:17:41,941 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1179, 79, '35.96']
+2016-12-01 05:28:46,797 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17044, 79, '36.83']
+2016-12-01 05:39:51,641 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17044, 79, '36.83']

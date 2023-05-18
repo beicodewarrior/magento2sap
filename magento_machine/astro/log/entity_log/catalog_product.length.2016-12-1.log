@@ -1,0 +1,5 @@
+2016-12-01 00:13:26,800 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17163, 170, u'11']

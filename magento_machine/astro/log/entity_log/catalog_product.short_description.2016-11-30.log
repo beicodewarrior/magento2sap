@@ -1,0 +1,80 @@
+2016-11-30 10:19:34,857 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17044, 73, u'ASPIRE PETALLICS 81T (120gsm) Snow Willow 12 X 18']
+2016-11-30 11:13:07,358 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1127, 73, u'ASTROPARCHE 60T (89gsm) Sand 8.5 X 11']
+2016-11-30 12:06:40,468 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1130, 73, u'ASTROPARCHE 60T (89gsm) Blue 8.5 X 11']
+2016-11-30 13:00:14,002 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [4974, 73, u'ASTROPARCHE ENVELOPES 60T (89gsm) Natural #10 COMMERCIAL FLAP']
+2016-11-30 13:53:46,487 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [889, 73, u'ASTROBRIGHTS 65C (176gsm) Gamma Green 8.5 X 11']
+2016-11-30 14:47:19,980 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [2082, 73, u'ENVIRONMENT SMOOTH DIGITAL 100C (270gsm) Desert Storm 18 X 12 83.06M GS']
+2016-11-30 15:40:52,621 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17127, 73, u'ESSE SMOOTH 80T (118gsm) Pearlized Latte 12 X 18 - 25/PKG']
+2016-11-30 16:34:25,492 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17128, 73, u'ESSE SMOOTH 80T (118gsm) Pearlized Latte 11 X 17 - 25/PKG']
+2016-11-30 17:27:58,436 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17129, 73, u'ESSE SMOOTH 80T (118gsm) Pearlized Latte 12 X 18']
+2016-11-30 18:21:32,403 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [51, 73, u'GMUND COLORS METALLIC 115C']
+2016-11-30 19:15:05,884 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17143, 73, u'KRAFT-TONE 100C (270gsm) Index Off-White Kraft 11 X 17']
+2016-11-30 20:08:38,451 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17148, 73, u'KRAFT-TONE 100C (270gsm) Index Off-White Kraft 11 X 17 - 50/PKG']
+2016-11-30 21:02:11,438 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17152, 73, u'KRAFT-TONE 70T (104gsm) Standard White Kraft 11 X 8.5']
+2016-11-30 21:55:44,956 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17154, 73, u'KRAFT-TONE 70T (104gsm) Carbon Copy Kraft 11 X 8.5']
+2016-11-30 22:49:17,824 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17160, 73, u'KRAFT-TONE 70T (104gsm) Standard White Kraft 11 X 8.5 - 100/PKG']
+2016-11-30 23:42:50,521 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_text (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17163, 73, u'KRAFT-TONE 70T (104gsm) Carbon Copy Kraft 11 X 8.5 - 100/PKG']

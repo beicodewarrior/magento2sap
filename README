@@ -1,0 +1,15 @@
+magento_machine is the code base that lives at:
+	/opt/magedst
+
+	CRON:
+	#DST Tasks
+    30 * * * * /bin/sh /opt/magedst/astro/magedstsync.sh productm2mage
+    */5 * * * * /bin/sh /opt/magedst/astro/magedstsync.sh ship2mage
+
+
+sap_machine is the codebase that lives on the windows machine that's run via task scheduler:
+	C:\magedst
+
+
+sap_machine_silksoftware is the codebase that lives on the windows machine under the user "silksoftware"
+	C:\Users\silksoftware\Documents\magedst

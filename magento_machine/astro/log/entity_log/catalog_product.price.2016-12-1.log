@@ -1,0 +1,100 @@
+2016-12-01 03:00:38,609 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1507, 74, Decimal('80.85')]
+2016-12-01 03:09:08,699 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1775, 74, Decimal('6.85')]
+2016-12-01 03:17:38,772 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1179, 74, Decimal('313.01')]
+2016-12-01 03:26:08,846 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1185, 74, Decimal('432.25')]
+2016-12-01 03:34:38,926 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1221, 74, Decimal('24.41')]
+2016-12-01 03:43:09,001 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1222, 74, Decimal('24.40')]
+2016-12-01 03:51:38,075 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1224, 74, Decimal('28.78')]
+2016-12-01 04:00:08,160 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1269, 74, Decimal('144.82')]
+2016-12-01 04:08:38,240 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1311, 74, Decimal('184.89')]
+2016-12-01 04:17:08,320 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [5227, 74, Decimal('258.51')]
+2016-12-01 04:25:38,396 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1509, 74, Decimal('80.85')]
+2016-12-01 04:34:08,470 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1511, 74, Decimal('80.85')]
+2016-12-01 04:42:38,544 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1519, 74, Decimal('80.85')]
+2016-12-01 04:51:08,619 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1559, 74, Decimal('89.76')]
+2016-12-01 04:59:38,695 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1560, 74, Decimal('80.85')]
+2016-12-01 05:08:08,770 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1564, 74, Decimal('80.85')]
+2016-12-01 05:16:38,844 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1705, 74, Decimal('6.85')]
+2016-12-01 05:25:08,088 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1771, 74, Decimal('6.85')]
+2016-12-01 05:33:39,905 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [3475, 74, Decimal('5.56')]
+2016-12-01 05:42:09,174 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [9004, 74, Decimal('162.33')]

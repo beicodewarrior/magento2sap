@@ -1,0 +1,80 @@
+2016-11-30 10:09:22,761 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17044, 169, u'12']
+2016-11-30 11:02:55,267 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1127, 169, u'8.5']
+2016-11-30 11:56:28,762 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1130, 169, u'8.5']
+2016-11-30 12:50:01,903 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [4974, 169, u'']
+2016-11-30 13:43:34,399 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [889, 169, u'8.5']
+2016-11-30 14:37:07,893 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [2082, 169, u'12']
+2016-11-30 15:30:40,388 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17127, 169, u'12']
+2016-11-30 16:24:13,630 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17128, 169, u'11']
+2016-11-30 17:17:46,797 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17129, 169, u'12']
+2016-11-30 18:11:19,806 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [51, 169, None]
+2016-11-30 19:04:53,201 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17143, 169, u'11']
+2016-11-30 19:58:26,533 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17148, 169, u'11']
+2016-11-30 20:51:59,438 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17152, 169, u'8.5']
+2016-11-30 21:45:32,293 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17154, 169, u'8.5']
+2016-11-30 22:39:05,876 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17160, 169, u'8.5']
+2016-11-30 23:32:38,800 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_varchar (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17163, 169, u'8.5']

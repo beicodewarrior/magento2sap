@@ -1,0 +1,100 @@
+2016-12-01 02:58:56,594 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1507, 77, None]
+2016-12-01 03:07:26,684 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1775, 77, None]
+2016-12-01 03:15:56,758 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1179, 77, None]
+2016-12-01 03:24:26,832 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1185, 77, None]
+2016-12-01 03:32:56,911 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1221, 77, None]
+2016-12-01 03:41:26,986 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1222, 77, None]
+2016-12-01 03:49:56,060 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1224, 77, None]
+2016-12-01 03:58:26,146 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1269, 77, None]
+2016-12-01 04:06:56,225 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1311, 77, None]
+2016-12-01 04:15:26,305 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [5227, 77, None]
+2016-12-01 04:23:56,380 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1509, 77, None]
+2016-12-01 04:32:26,455 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1511, 77, None]
+2016-12-01 04:40:56,529 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1519, 77, None]
+2016-12-01 04:49:26,603 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1559, 77, None]
+2016-12-01 04:57:56,680 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1560, 77, None]
+2016-12-01 05:06:26,755 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1564, 77, None]
+2016-12-01 05:14:56,829 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1705, 77, None]
+2016-12-01 05:23:26,631 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1771, 77, None]
+2016-12-01 05:31:57,915 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [3475, 77, None]
+2016-12-01 05:40:27,869 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_datetime (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [9004, 77, None]

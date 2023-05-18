@@ -1,0 +1,80 @@
+2016-11-30 10:00:52,683 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17044, 79, '36.83']
+2016-11-30 10:54:25,193 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1127, 79, '11.81']
+2016-11-30 11:47:58,688 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [1130, 79, '11.81']
+2016-11-30 12:41:31,820 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [4974, 79, '14.0']
+2016-11-30 13:35:04,326 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [889, 79, '23.38']
+2016-11-30 14:28:37,818 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [2082, 79, '83.08']
+2016-11-30 15:22:10,325 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17127, 79, '0.91']
+2016-11-30 16:15:43,086 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17128, 79, '1.57']
+2016-11-30 17:09:16,473 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17129, 79, '36.38']
+2016-11-30 18:02:49,484 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [51, 79, None]
+2016-11-30 18:56:23,690 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17143, 79, '71.92']
+2016-11-30 19:49:56,091 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17148, 79, '3.6']
+2016-11-30 20:43:29,029 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17152, 79, '13.78']
+2016-11-30 21:37:02,644 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17154, 79, '13.78']
+2016-11-30 22:30:35,228 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17160, 79, '1.38']
+2016-11-30 23:24:08,795 INFO     SQL:
+                REPLACE INTO
+                catalog_product_entity_decimal (entity_id, attribute_id, store_id, value)
+                values (%s, %s,0, %s)
+            , PARAM: [17163, 79, '1.38']
